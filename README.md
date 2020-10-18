@@ -6,4 +6,6 @@ This is the data of 17007 strategy games on the Apple App Store. It was collecte
 
 # Contents
 
-Extra content
+1. Jupyter Notebook (.ipynb) - Analysis of mobile gaming applications using Python.
+2. Lending Club Data (.csv)
+
