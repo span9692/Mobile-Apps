@@ -8,6 +8,6 @@ This is the data of 17007 strategy games on the Apple App Store. It was collecte
 
 1. Jupyter Notebook (.ipynb) - Analysis of mobile gaming applications using Python.
 2. App Store Games (.csv)
-	- App Data - fgdfgdfg
+	- App Data - This file contains data for all the mobile gaming apps in the app store at that time. It provides us with useful information including the number of user ratings, the overall rating, and the different subgenres for each of the app.
 	
 
